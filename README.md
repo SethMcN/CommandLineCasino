@@ -1,3 +1,2 @@
 # CommandLineCasino
-This repo holds a command line casino game I developed in year 10 to 11 
-I broke the games down into different files then imported them into the main file "The Casino" this was done to make development of the games simpler.
+This repository contains a command-line casino game I developed during years 10 and 11. I broke the game down into different files and then imported them into the main file, "The Casino." This was done to simplify the development process.
