@@ -3,7 +3,7 @@ from blackjack import *
 from tutlr_racing import *
 from dice_betting import *
 from slots import *
-from save_game_class import *
+
 
 balance = 100
 
@@ -66,8 +66,6 @@ while True:
         print (f"\nYour balance is now £{balance}\n")
         draw_line()
 
-    elif game == "save":
-        Save(balance,123)
 
     if balance <= 0:
         print ("Thanks for coming to the casino but you've gone bankrupt\n") 
